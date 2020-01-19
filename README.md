@@ -2,17 +2,17 @@
 ## Data 598 A: Replication project final submission
 ### Contributors: Anirudha Dutta, Mansi Rathod, Mayur Gupta, Pradeep Prabhakar, Sreeja Vishaly Manohar
 
-This repository will contain the team's work required for the project check ins as well as the final submission.
+This repository will contain the team's work required for the project check-ins as well as the final submission.
 
 The following are the 5 project check-ins:
 
-Project check-in 1: Group formation, identification of target paper and it’s key scientific claims, and the key figures to focus on for replication
-Project check-in 2: Identification of data, tools and infrastructure necessary
-Project check-in 3: Replication of the key figures
-Project check-in 4: Peer review
-Project check-in 5: In class presentation
+Project check-in 1: Group formation, identification of target paper and it’s key scientific claims, and the key figures to focus on for replication \
+Project check-in 2: Identification of data, tools and infrastructure necessary \
+Project check-in 3: Replication of the key figures \
+Project check-in 4: Peer review \
+Project check-in 5: In class presentation \
 
-The following are the target papers considered
+The following are the target papers considered \
 Project Idea 1: A new approach to estimating the production function for housing \
 Link: https://www0.gsb.columbia.edu/mygsb/faculty/research/pubfiles/5538/production%20function%20housing.pdf \
 Data & Source: https://www.openicpsr.org/openicpsr/project/112360/version/V1/view
