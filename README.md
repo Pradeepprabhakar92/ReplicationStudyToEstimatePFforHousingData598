@@ -1,5 +1,4 @@
 # Replication Study To Estimate Pricing Function for Housing Data
-\
 ## Data 598: Replication Study
 ### Contributors: Anirudha Dutta, Mansi Rathod, Mayur Gupta, Pradeep Prabhakar, Sreeja Vishaly Manohar
 
